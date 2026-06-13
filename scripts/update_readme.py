@@ -69,7 +69,7 @@ def render_hot_beggars(issues_with_votes, lang="en"):
         title = issue.get("title", "").split("\n")[0][:60]
         author = issue["user"]["login"]
         lines.append(
-            f"| [![👍 {votes}]({badge_url})]({badge_url}) "
+            f"| [👍 {votes}]({badge_url}) "
             f"| [{author}]({issue['user']['html_url']}) "
             f"| {title} |"
         )
