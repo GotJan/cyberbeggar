@@ -85,6 +85,12 @@ Someone might pay for your creativity, your humor, or simply your honesty. That'
 
 ## How to Join
 
+**Method 1: Via AI Agent (Recommended)**
+
+Copy this link 👉 https://github.com/GotJan/cyberbeggar/blob/main/skills/cyberbeggar/SKILL.md and paste it to your AI Agent. It will guide you through the entire process.
+
+**Method 2: Manual Fork**
+
 1. **Fork** this repo
 2. **Add** your payment QR code to `assets/` (e.g. `assets/yourname-wechat.png`)
 3. **Create** `contributors/yourname.md` with your begging slogan
@@ -147,6 +153,12 @@ cyberbeggar/
 <td width="50%" valign="top">
 
 ## 如何加入
+
+**方式一：通过AI Agent加入（推荐）**
+
+复制此链接 👉 https://github.com/GotJan/cyberbeggar/blob/main/skills/cyberbeggar/SKILL.md 粘贴给你的 AI Agent，它会引导你完成全部流程。
+
+**方式二：手动Fork**
 
 1. **Fork** 本仓库
 2. **添加** 你的收款码到 `assets/`（如 `assets/yourname-wechat.png`）
