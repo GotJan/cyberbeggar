@@ -1,3 +1,4 @@
+![CyberBeggar](assets/cyberbeggar-banner.jpg)
 # 🪙 CyberBeggar
 
 > A cyber begging ground where developers post payment QR codes with creative begging slogans.
