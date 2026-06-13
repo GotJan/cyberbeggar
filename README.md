@@ -45,6 +45,13 @@ Someone might pay for your creativity, your humor, or simply your honesty. That'
 
 > 🗳️ 点 👍 徽章跳转 Issue，点 👍 投票！
 
+<details>
+<summary>📖 如何投票 (点击展开)</summary>
+
+<img src="help/where-click-like-issue.png" width="500" alt="如何投票" />
+
+</details>
+
 | 👍 | 乞丐 | 口号 |
 |----|------|------|
 
