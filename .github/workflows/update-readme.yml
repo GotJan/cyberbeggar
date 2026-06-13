@@ -4,16 +4,16 @@ on:
   schedule:
     - cron: "0 */6 * * *"  # every 6 hours
   workflow_dispatch:
-  pull_request:
-    types: [closed]
+  issues:
+    types: [opened, labeled, unlabeled, deleted]
 
 jobs:
   update:
-    if: github.event.pull_request.merged == true || github.event_name != 'pull_request'
+    if: github.event_name != 'issues' || contains(github.event.issue.labels.*.name, 'beggar')
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: read
+      issues: read
 
     steps:
       - uses: actions/checkout@v4
