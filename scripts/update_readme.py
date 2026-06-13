@@ -59,7 +59,11 @@ def get_issue_reactions(issue_number):
 
 
 def render_hot_beggars(issues_with_votes, lang="en"):
-    lines = []
+    """Render hot beggars table including header — markers wrap the whole table."""
+    if lang == "zh":
+        lines = ["| 👍 | 乞丐 | 口号 |", "|----|------|------|"]
+    else:
+        lines = ["| 👍 | Beggar | Slogan |", "|----|--------|--------|"]
     for issue, votes in issues_with_votes[:10]:
         badge_url = issue["html_url"]
         title = issue.get("title", "").split("\n")[0][:60]
@@ -73,7 +77,11 @@ def render_hot_beggars(issues_with_votes, lang="en"):
 
 
 def render_latest_beggars(issues, lang="en"):
-    lines = []
+    """Render latest beggars table including header — markers wrap the whole table."""
+    if lang == "zh":
+        lines = ["| 乞丐 | 口号 |", "|------|------|"]
+    else:
+        lines = ["| Beggar | Slogan |", "|--------|--------|"]
     for issue in issues[:10]:
         author = issue["user"]["login"]
         title = issue.get("title", "").split("\n")[0][:60]
@@ -111,7 +119,7 @@ def main():
         issues_with_votes.append((issue, votes))
     issues_with_votes.sort(key=lambda x: x[1], reverse=True)
 
-    # Render sections
+    # Render sections (each includes table header)
     hot_en = render_hot_beggars(issues_with_votes, "en")
     hot_zh = render_hot_beggars(issues_with_votes, "zh")
     latest_en = render_latest_beggars(issues, "en")
