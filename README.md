@@ -18,7 +18,7 @@ Someone might pay for your creativity, your humor, or simply your honesty. That'
 
 ## 🔥 Hot Beggars
 
-> 🗳️ Click the 👍 badge to open the PR, then hit 👍 to vote!
+> 🗳️ Click the 👍 badge to open the Issue, then hit 👍 to vote!
 
 | 👍 | Beggar | Slogan |
 |----|--------|--------|
@@ -36,7 +36,7 @@ Someone might pay for your creativity, your humor, or simply your honesty. That'
 
 ## 🔥 热门要饭
 
-> 🗳️ 点 👍 徽章跳转 PR，点 👍 投票！
+> 🗳️ 点 👍 徽章跳转 Issue，点 👍 投票！
 
 | 👍 | 乞丐 | 口号 |
 |----|------|------|
@@ -68,18 +68,27 @@ Someone might pay for your creativity, your humor, or simply your honesty. That'
 
 ### Voting
 
-- See a great begging slogan? Go to the PR and hit 👍
+- See a great begging slogan? Go to the Issue and hit 👍
 - Top-voted slogans rise to the **Hot Beggars** board
 - README auto-refreshes every 6 hours via GitHub Actions
+
+### How to Get Votes
+
+1. After your PR is merged, [create an Issue](../../issues/new) with the `beggar` label
+2. Write your slogan as the Issue title
+3. People vote by hitting 👍 on your Issue
 
 ### Rules
 
 - ✅ Personal payment QR codes only (WeChat Pay, Alipay, PayPal.me, etc.)
+- ✅ Links in slogans are welcome (your project, blog, portfolio, etc.)
 - ❌ No crypto addresses
 - ❌ No paid placement or bribery for votes
+- ❌ No NSFW content (images limited to payment QR codes, avatars, and project screenshots)
+- ❌ No phishing or malicious links
 - ✅ Creative, funny, or heartbreaking slogans welcomed
 - ❌ No offensive or illegal content
-- ⚠️ You are solely responsible for your own QR code and its compliance with local laws
+- ⚠️ You are solely responsible for your own QR code, links, and their compliance with local laws
 
 ### Contributor Template
 
@@ -122,18 +131,27 @@ cyberbeggar/
 
 ### 投票
 
-- 看到绝妙的要饭口号？去对应 PR 点 👍
+- 看到绝妙的要饭口号？去对应 Issue 点 👍
 - 得票最多的口号登上 **热门要饭** 榜
 - README 通过 GitHub Actions 每 6 小时自动刷新
+
+### 如何获得投票
+
+1. PR 合并后，[创建一个 Issue](../../issues/new)，加上 `beggar` 标签
+2. 把你的要饭口号写在 Issue 标题里
+3. 大家在你的 Issue 上点 👍 投票
 
 ### 规则
 
 - ✅ 仅限个人收款码（微信支付、支付宝、PayPal.me 等）
+- ✅ 口号中可以带链接（你的项目、博客、主页等）
 - ❌ 禁止加密货币地址
 - ❌ 禁止付费上榜或刷票
+- ❌ 禁止 NSFW 内容（图片仅限收款码、头像、项目截图）
+- ❌ 禁止钓鱼或恶意链接
 - ✅ 欢迎创意、搞笑、扎心的要饭口号
 - ❌ 禁止违规或违法内容
-- ⚠️ 你对自己的收款码及其合规性负全部责任
+- ⚠️ 你对自己的收款码、链接及其合规性负全部责任
 
 ### 贡献者模板
 
@@ -174,10 +192,27 @@ cyberbeggar/
 
 **They build products. We beg with style. 🪙**
 
-[Submit Your QR Code](../../issues/new) · [Vote for Best Beggar](../../pulls?q=is%3Apr+is%3Aopen)
+If you actually got paid — congrats, you lucky bastard. 🎉
+
+[Submit Your QR Code](../../issues/new?labels=beggar) · [Vote for Best Beggar](../../issues?q=label%3Abeggar)
+
+</div>
+
+---
+
+## 👑 Founder's Corner
+
+<div align="center">
+
+> I just want some money directly. Any fellow cyber beggars out there? 😄
+
+<img src="assets/gotjan-wechat.png" width="180" alt="WeChat" />
+&nbsp;&nbsp;
+<img src="assets/gotjan-alipay.png" width="180" alt="Alipay" />
 
 </div>
 
 ## License
 
 MIT
+
