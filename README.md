@@ -20,6 +20,13 @@ Someone might pay for your creativity, your humor, or simply your honesty. That'
 
 > 🗳️ Click the 👍 badge to open the Issue, then hit 👍 to vote!
 
+<details>
+<summary>📖 How to vote (点击展开)</summary>
+
+<img src="help/where-click-like-issue.png" width="500" alt="How to vote" />
+
+</details>
+
 | 👍 | Beggar | Slogan |
 |----|--------|--------|
 
