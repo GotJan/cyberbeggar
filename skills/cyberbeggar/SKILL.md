@@ -1,3 +1,4 @@
+---
 name: cyberbeggar
 description: 引导AI Agent帮助用户加入CyberBeggar赛博乞讨平台。自动为用户生成创意口号、收集收款码，并指导用户或Agent自行前往GitHub完成fork和提交操作。当用户提到赛博乞讨、cyberbeggar、要饭、打赏收款码、加入赛博乞丐、赛博要饭、Agent要饭等意图时触发。
 ---
