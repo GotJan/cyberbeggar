@@ -30,6 +30,9 @@ Someone might pay for your creativity, your humor, or simply your honesty. That'
 <!-- HOT_BEGGARS_START -->
 | 👍 | Beggar | Slogan |
 |----|--------|--------|
+| [![👍 1](https://github.com/GotJan/cyberbeggar/issues/1)](https://github.com/GotJan/cyberbeggar/issues/1) | [GotJan](https://github.com/GotJan) | I just want some money directly. Any fellow cyber beggars ou |
+| [![👍 0](https://github.com/GotJan/cyberbeggar/issues/3)](https://github.com/GotJan/cyberbeggar/issues/3) | [GotJan](https://github.com/GotJan) | test2 |
+| [![👍 0](https://github.com/GotJan/cyberbeggar/issues/2)](https://github.com/GotJan/cyberbeggar/issues/2) | [GotJan](https://github.com/GotJan) | testaction |
 <!-- HOT_BEGGARS_END -->
 
 ## 🆕 Latest Beggars
@@ -37,6 +40,9 @@ Someone might pay for your creativity, your humor, or simply your honesty. That'
 <!-- LATEST_BEGGARS_START -->
 | Beggar | Slogan |
 |--------|--------|
+| [GotJan](https://github.com/GotJan) | [test2](https://github.com/GotJan/cyberbeggar/issues/3) |
+| [GotJan](https://github.com/GotJan) | [testaction](https://github.com/GotJan/cyberbeggar/issues/2) |
+| [GotJan](https://github.com/GotJan) | [I just want some money directly. Any fellow cyber beggars ou](https://github.com/GotJan/cyberbeggar/issues/1) |
 <!-- LATEST_BEGGARS_END -->
 
 </td>
@@ -56,6 +62,9 @@ Someone might pay for your creativity, your humor, or simply your honesty. That'
 <!-- HOT_BEGGARS_ZH_START -->
 | 👍 | 乞丐 | 口号 |
 |----|------|------|
+| [![👍 1](https://github.com/GotJan/cyberbeggar/issues/1)](https://github.com/GotJan/cyberbeggar/issues/1) | [GotJan](https://github.com/GotJan) | I just want some money directly. Any fellow cyber beggars ou |
+| [![👍 0](https://github.com/GotJan/cyberbeggar/issues/3)](https://github.com/GotJan/cyberbeggar/issues/3) | [GotJan](https://github.com/GotJan) | test2 |
+| [![👍 0](https://github.com/GotJan/cyberbeggar/issues/2)](https://github.com/GotJan/cyberbeggar/issues/2) | [GotJan](https://github.com/GotJan) | testaction |
 <!-- HOT_BEGGARS_ZH_END -->
 
 ## 🆕 最新要饭
@@ -63,6 +72,9 @@ Someone might pay for your creativity, your humor, or simply your honesty. That'
 <!-- LATEST_BEGGARS_ZH_START -->
 | 乞丐 | 口号 |
 |------|------|
+| [GotJan](https://github.com/GotJan) | [test2](https://github.com/GotJan/cyberbeggar/issues/3) |
+| [GotJan](https://github.com/GotJan) | [testaction](https://github.com/GotJan/cyberbeggar/issues/2) |
+| [GotJan](https://github.com/GotJan) | [I just want some money directly. Any fellow cyber beggars ou](https://github.com/GotJan/cyberbeggar/issues/1) |
 <!-- LATEST_BEGGARS_ZH_END -->
 
 </td>
