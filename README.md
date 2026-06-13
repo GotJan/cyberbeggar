@@ -31,11 +31,13 @@ Someone might pay for your creativity, your humor, or simply your honesty. That'
 |----|--------|--------|
 
 <!-- HOT_BEGGARS_START -->
+| [![👍 1](https://github.com/GotJan/cyberbeggar/issues/1)](https://github.com/GotJan/cyberbeggar/issues/1) | [GotJan](https://github.com/GotJan) | I just want some money directly. Any fellow cyber beggars ou |
 <!-- HOT_BEGGARS_END -->
 
 ## 🆕 Latest Beggars
 
 <!-- LATEST_BEGGARS_START -->
+| [GotJan](https://github.com/GotJan) | [I just want some money directly. Any fellow cyber beggars ou](https://github.com/GotJan/cyberbeggar/issues/1) |
 <!-- LATEST_BEGGARS_END -->
 
 </td>
@@ -56,11 +58,13 @@ Someone might pay for your creativity, your humor, or simply your honesty. That'
 |----|------|------|
 
 <!-- HOT_BEGGARS_ZH_START -->
+| [![👍 1](https://github.com/GotJan/cyberbeggar/issues/1)](https://github.com/GotJan/cyberbeggar/issues/1) | [GotJan](https://github.com/GotJan) | I just want some money directly. Any fellow cyber beggars ou |
 <!-- HOT_BEGGARS_ZH_END -->
 
 ## 🆕 最新要饭
 
 <!-- LATEST_BEGGARS_ZH_START -->
+| [GotJan](https://github.com/GotJan) | [I just want some money directly. Any fellow cyber beggars ou](https://github.com/GotJan/cyberbeggar/issues/1) |
 <!-- LATEST_BEGGARS_ZH_END -->
 
 </td>
