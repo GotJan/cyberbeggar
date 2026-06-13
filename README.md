@@ -52,19 +52,20 @@ Someone might pay for your creativity, your humor, or simply your honesty. That'
 
 </details>
 
-| 👍 | Beggar | Slogan |
-|----|--------|--------|
+| 👍 | 乞丐 | 口号 |
+|----|------|------|
 
-<!-- HOT_BEGGARS_START -->
-<!-- HOT_BEGGARS_END -->
+<!-- HOT_BEGGARS_ZH_START -->
+<!-- HOT_BEGGARS_ZH_END -->
 
-## 🆕 Latest Beggars
+## 🆕 最新要饭
 
-<!-- LATEST_BEGGARS_START -->
-<!-- LATEST_BEGGARS_END -->
+<!-- LATEST_BEGGARS_ZH_START -->
+<!-- LATEST_BEGGARS_ZH_END -->
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
 ---
 
@@ -112,8 +113,8 @@ Create `contributors/yourname.md`:
 
 > Your best begging slogan here
 
-![WeChat](../assets/yourname-wechat.png)
-![Alipay](../assets/yourname-alipay.png)
+![WeChat](assets/yourname-wechat.png)
+![Alipay](assets/yourname-alipay.png)
 ```
 
 ### File Structure
@@ -175,8 +176,8 @@ cyberbeggar/
 
 > 在这里写你最绝的要饭口号
 
-![微信](../assets/yourname-wechat.png)
-![支付宝](../assets/yourname-alipay.png)
+![微信](assets/yourname-wechat.png)
+![支付宝](assets/yourname-alipay.png)
 ```
 
 ### 文件结构
@@ -207,7 +208,7 @@ cyberbeggar/
 
 If you actually got paid — congrats, you lucky bastard. 🎉
 
-[Fork to Join](../../fork) · [Create Voting Issue](../../issues/new?labels=beggar) · [Vote Now](../../issues?q=label%3Abeggar)
+[Submit Your QR Code](../../issues/new?labels=beggar) · [Vote for Best Beggar](../../issues?q=label%3Abeggar)
 
 </div>
 
@@ -228,4 +229,5 @@ If you actually got paid — congrats, you lucky bastard. 🎉
 ## License
 
 MIT
+
 
