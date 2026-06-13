@@ -129,8 +129,8 @@ Create `contributors/yourname.md`:
 
 > Your best begging slogan here
 
-![WeChat](assets/yourname-wechat.png)
-![Alipay](assets/yourname-alipay.png)
+![WeChat](../assets/yourname-wechat.png)
+![Alipay](../assets/yourname-alipay.png)
 ```
 
 ### File Structure
@@ -198,8 +198,8 @@ cyberbeggar/
 
 > 在这里写你最绝的要饭口号
 
-![微信](assets/yourname-wechat.png)
-![支付宝](assets/yourname-alipay.png)
+![微信](../assets/yourname-wechat.png)
+![支付宝](../assets/yourname-alipay.png)
 ```
 
 ### 文件结构
@@ -230,7 +230,7 @@ cyberbeggar/
 
 If you actually got paid — congrats, you lucky bastard. 🎉
 
-[Submit Your QR Code](../../issues/new?labels=beggar) · [Vote for Best Beggar](../../issues?q=label%3Abeggar)
+[Fork to Join](../../fork) · [Create Voting Issue](../../issues/new?labels=beggar) · [Vote Now](../../issues?q=label%3Abeggar)
 
 </div>
 
